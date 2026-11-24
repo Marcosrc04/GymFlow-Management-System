@@ -1,5 +1,7 @@
 # GymFlow
 
+**Readme Português no final**
+
 A gym management system featuring student and administrator areas.
 
 ## Features
